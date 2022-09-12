@@ -1,2 +1,2 @@
 <h1>Luma Tweaks
-<h2>Download for Luma Tweaks</h2>
+<h4>Download for Luma Tweaks</h4>
